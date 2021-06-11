@@ -1,0 +1,1580 @@
+[
+	{
+		"Nederlands": "aandrijfas",
+		"Engels": "drive shaft",
+		"Duits": "Antriebswelle",
+		"Frans": "arbre de transmission"
+	},
+	{
+		"Nederlands": "aandrijfas-hoes",
+		"Engels": "wheel drive shaft cover",
+		"Duits": "Schutzhaube",
+		"Frans": " Quergelenkwelle"
+	},
+	{
+		"Nederlands": "aandrijving . . . . .",
+		"Engels": "drive",
+		"Duits": "Antrieb",
+		"Frans": "commande / courroie"
+	},
+	{
+		"Nederlands": "accu",
+		"Engels": "battery / accumulator",
+		"Duits": "Akkumulator",
+		"Frans": "batterie"
+	},
+	{
+		"Nederlands": "accumulator/accubol (citroën)",
+		"Engels": "gasfilled sphere",
+		"Duits": "",
+		"Frans": "accumulateur"
+	},
+	{
+		"Nederlands": "achteras",
+		"Engels": "rear axle",
+		"Duits": "Hinterachse",
+		"Frans": "essieu arrière"
+	},
+	{
+		"Nederlands": "achterbrug",
+		"Engels": "rear axle beam",
+		"Duits": "Hinterachsbrücke",
+		"Frans": "pont arrière"
+	},
+	{
+		"Nederlands": "achterdemper",
+		"Engels": "rear silencer",
+		"Duits": "hinterer Schalldämpfer",
+		"Frans": "silencieux arrière"
+	},
+	{
+		"Nederlands": "achterklep (berline)",
+		"Engels": "boot / trunk lid",
+		"Duits": "Kofferraumdeckel",
+		"Frans": "coffre"
+	},
+	{
+		"Nederlands": "achterklep (hatchback)",
+		"Engels": "hatchback",
+		"Duits": "",
+		"Frans": "hayon"
+	},
+	{
+		"Nederlands": "achterruit",
+		"Engels": "rear window",
+		"Duits": "Heckscheibe",
+		"Frans": "lunette arrière"
+	},
+	{
+		"Nederlands": "achteruit",
+		"Engels": "reverse",
+		"Duits": "Rückwärtsgang",
+		"Frans": "marche arrière"
+	},
+	{
+		"Nederlands": "achteruitkijkspiegel",
+		"Engels": "rear view mirror",
+		"Duits": "Rückspiegel",
+		"Frans": "rétroviseur"
+	},
+	{
+		"Nederlands": "achteruitrijblokkeerring",
+		"Engels": "back up lock",
+		"Duits": "Rückfahrsperre",
+		"Frans": "vérrouillage de marche arrière"
+	},
+	{
+		"Nederlands": "afstandsbediening (alarm)",
+		"Engels": "remote control",
+		"Duits": "Fernbedienung",
+		"Frans": "télécommande système anti-démarrage"
+	},
+	{
+		"Nederlands": "afstandsbus",
+		"Engels": "distance sleeve",
+		"Duits": "Distanzhülse",
+		"Frans": "entretoise"
+	},
+	{
+		"Nederlands": "afstandsring",
+		"Engels": "distance ring",
+		"Duits": "Abstandsringplatte",
+		"Frans": "anneau d'écartement"
+	},
+	{
+		"Nederlands": "airconditionning",
+		"Engels": "airconditioning",
+		"Duits": "Klimaanlage",
+		"Frans": "climatisation (clim)"
+	},
+	{
+		"Nederlands": "as",
+		"Engels": "shaft",
+		"Duits": " axle",
+		"Frans": " drive"
+	},
+	{
+		"Nederlands": "bagageruimte",
+		"Engels": "boot",
+		"Duits": "Gepäckraum",
+		"Frans": "coffre"
+	},
+	{
+		"Nederlands": "band",
+		"Engels": "tyre",
+		"Duits": "Reifen (der Reifen - die Reifen)",
+		"Frans": "pneu"
+	},
+	{
+		"Nederlands": "bdp-sensor",
+		"Engels": "top dead center (TDC) sensor",
+		"Duits": "oberer Totpunkt (OT) sensor",
+		"Frans": "capteur point mort haut (pmh)"
+	},
+	{
+		"Nederlands": "benzinefilter",
+		"Engels": "fuelfilter (petrol)",
+		"Duits": "Benzinfilter",
+		"Frans": "filtre d’essence"
+	},
+	{
+		"Nederlands": "benzinemotor",
+		"Engels": "petrol engine",
+		"Duits": "Benzin-motor",
+		"Frans": "moteur d’essence"
+	},
+	{
+		"Nederlands": "benzinepomp",
+		"Engels": "fuellpump (petrol)",
+		"Duits": "Kraftstoffpumpe",
+		"Frans": "pompe d’essence"
+	},
+	{
+		"Nederlands": "benzinetank",
+		"Engels": "fueltank (petrol)",
+		"Duits": "Benzinbehälter (tank)",
+		"Frans": "reservoir d'essence"
+	},
+	{
+		"Nederlands": "beschermhoes",
+		"Engels": "cover",
+		"Duits": "Schutzhaube",
+		"Frans": "soufflet"
+	},
+	{
+		"Nederlands": "bobine",
+		"Engels": "coil",
+		"Duits": "Zündspule",
+		"Frans": "bobine"
+	},
+	{
+		"Nederlands": "borgpen",
+		"Engels": "retainer pin",
+		"Duits": "Verschlussstift",
+		"Frans": "goupille"
+	},
+	{
+		"Nederlands": "borgplaatje",
+		"Engels": "lock plate",
+		"Duits": "Riegelflansch",
+		"Frans": "plaquette de blocage"
+	},
+	{
+		"Nederlands": "borgring",
+		"Engels": "circlip ",
+		"Duits": " thrust ring",
+		"Frans": "Stellring"
+	},
+	{
+		"Nederlands": "borgring getand",
+		"Engels": "groverring",
+		"Duits": "",
+		"Frans": "rondelle dentée"
+	},
+	{
+		"Nederlands": "boring",
+		"Engels": "cylinder diameter",
+		"Duits": " bore",
+		"Frans": "Zylinderbohrung"
+	},
+	{
+		"Nederlands": "bougie",
+		"Engels": "spark plug",
+		"Duits": "Zündkerze",
+		"Frans": "bougie d'allumage"
+	},
+	{
+		"Nederlands": "bougiekabel",
+		"Engels": "ignition wire",
+		"Duits": "",
+		"Frans": "fil d'allumage"
+	},
+	{
+		"Nederlands": "bout",
+		"Engels": "bolt / screw",
+		"Duits": "Schraube",
+		"Frans": "boulon / vis"
+	},
+	{
+		"Nederlands": "bout (wiel)bout",
+		"Engels": "wheel nut",
+		"Duits": "Radmutter",
+		"Frans": "goujon"
+	},
+	{
+		"Nederlands": "brandstofgalerij",
+		"Engels": "injectorramp",
+		"Duits": "",
+		"Frans": "rampe d’injecteurs"
+	},
+	{
+		"Nederlands": "brandstofpomp in tank",
+		"Engels": "",
+		"Duits": "",
+		"Frans": "pompe de gavage"
+	},
+	{
+		"Nederlands": "bumper",
+		"Engels": "bumper",
+		"Duits": "Stossstange",
+		"Frans": "pare choc"
+	},
+	{
+		"Nederlands": "carburator",
+		"Engels": "carburettor",
+		"Duits": "Vergaser / Karburator",
+		"Frans": "carburateur"
+	},
+	{
+		"Nederlands": "cardanas",
+		"Engels": "propellor shaft",
+		"Duits": "Kardanwelle",
+		"Frans": "cardan"
+	},
+	{
+		"Nederlands": "cardankoppeling",
+		"Engels": "joint propellor shaft",
+		"Duits": "Kardangelenk",
+		"Frans": "joint de cardan"
+	},
+	{
+		"Nederlands": "carter",
+		"Engels": "(motor) crankcase",
+		"Duits": "Motorgehäuse",
+		"Frans": "carter"
+	},
+	{
+		"Nederlands": "carterpan",
+		"Engels": "oilsump/pan",
+		"Duits": "Ölwanne/Carter",
+		"Frans": "carter"
+	},
+	{
+		"Nederlands": "chassisbalk",
+		"Engels": "side member",
+		"Duits": "Längsträger",
+		"Frans": "longeron"
+	},
+	{
+		"Nederlands": "cilinderblok",
+		"Engels": "cylinderbloc",
+		"Duits": "Zylinderblock",
+		"Frans": "bloc cylindres"
+	},
+	{
+		"Nederlands": "cilinderbus",
+		"Engels": "cylinder liner",
+		"Duits": "",
+		"Frans": "cylindre complet"
+	},
+	{
+		"Nederlands": "cilinderkop",
+		"Engels": "cylinderhead",
+		"Duits": "Zylinderkopf",
+		"Frans": "culasse"
+	},
+	{
+		"Nederlands": "compressie",
+		"Engels": "compression",
+		"Duits": "Kompression",
+		"Frans": "compression"
+	},
+	{
+		"Nederlands": "condensator",
+		"Engels": "condersor ",
+		"Duits": " capacitor",
+		"Frans": "Kondensator"
+	},
+	{
+		"Nederlands": "contact",
+		"Engels": "contact",
+		"Duits": "",
+		"Frans": "contact"
+	},
+	{
+		"Nederlands": "contactpunten",
+		"Engels": "contactbreakerpoints",
+		"Duits": "Unterbrecherkontakt",
+		"Frans": "vis platiné/rupteur d’allumage"
+	},
+	{
+		"Nederlands": "contactslot",
+		"Engels": "ignitionlock",
+		"Duits": "Kontakt",
+		"Frans": " Zündschloss"
+	},
+	{
+		"Nederlands": "contrastekker",
+		"Engels": "adaptor",
+		"Duits": "Einsatz",
+		"Frans": "connecteur"
+	},
+	{
+		"Nederlands": "controlelampje",
+		"Engels": "controllight",
+		"Duits": "Kontrollleuchte (Anzeige)",
+		"Frans": "temoin/voyant"
+	},
+	{
+		"Nederlands": "cylinderkopbout",
+		"Engels": "cylinderhead bolt",
+		"Duits": "Zylinderkopfschraube",
+		"Frans": "goujon de culasse"
+	},
+	{
+		"Nederlands": "dak",
+		"Engels": "roof",
+		"Duits": " top",
+		"Frans": "Dach"
+	},
+	{
+		"Nederlands": "dakdrager",
+		"Engels": "",
+		"Duits": "",
+		"Frans": "galerie de toit"
+	},
+	{
+		"Nederlands": "diagnose-stekker",
+		"Engels": "diagnoseplug",
+		"Duits": "",
+		"Frans": "prise diagnostic"
+	},
+	{
+		"Nederlands": "dieselfilter",
+		"Engels": "fuel filter",
+		"Duits": "Dieselkraftstoffilter",
+		"Frans": "filtre à gazoil"
+	},
+	{
+		"Nederlands": "dieselinjectiepomp",
+		"Engels": "injectionpump",
+		"Duits": "Einspritzpumpe",
+		"Frans": "pompe d’injection gazoil"
+	},
+	{
+		"Nederlands": "dieselmotor",
+		"Engels": "diesel engine",
+		"Duits": "Dieselmotor",
+		"Frans": "moteur diesel"
+	},
+	{
+		"Nederlands": "differentieel",
+		"Engels": "differential",
+		"Duits": "Ausgleichgetriebe",
+		"Frans": "différentiel/couple conique"
+	},
+	{
+		"Nederlands": "dissel",
+		"Engels": "tow bar",
+		"Duits": "Deichsel",
+		"Frans": "timon / flèche"
+	},
+	{
+		"Nederlands": "distributie",
+		"Engels": "valve-gear mechanism",
+		"Duits": "",
+		"Frans": "distribution"
+	},
+	{
+		"Nederlands": "distributieketting",
+		"Engels": "timing chain",
+		"Duits": "Steurungskette",
+		"Frans": "chaîne de distribution"
+	},
+	{
+		"Nederlands": "distributieriem",
+		"Engels": "timing belt",
+		"Duits": "Steurungsrieme / Zahnrieme",
+		"Frans": "courroie de distribution"
+	},
+	{
+		"Nederlands": "dop (plastic)",
+		"Engels": "cap",
+		"Duits": "Deckel",
+		"Frans": "bouchon (en plastique)"
+	},
+	{
+		"Nederlands": "dop van de benzinetank",
+		"Engels": "fuel tank filler cap",
+		"Duits": "Einfülldeckel",
+		"Frans": "bouchon du réservoir à essence"
+	},
+	{
+		"Nederlands": "dop van de radiator",
+		"Engels": "radiator filler cap",
+		"Duits": "Wasserkühler",
+		"Frans": " Einfüllverschluss"
+	},
+	{
+		"Nederlands": "draadboom",
+		"Engels": "wire assembly",
+		"Duits": "Leitungsbündel ",
+		"Frans": " Kabelsatz"
+	},
+	{
+		"Nederlands": "drijfstang",
+		"Engels": "connecting rod",
+		"Duits": "Treibstange",
+		"Frans": " Schubstange"
+	},
+	{
+		"Nederlands": "drijfstanglager uitgelopen",
+		"Engels": "worn out connecting rod",
+		"Duits": "",
+		"Frans": "bielle coulée"
+	},
+	{
+		"Nederlands": "drukaccumulator (Citron)",
+		"Engels": "gasfilled sphere (Citroën)",
+		"Duits": "",
+		"Frans": "accumulateur"
+	},
+	{
+		"Nederlands": "drukgroep",
+		"Engels": "pressure plate",
+		"Duits": "Druckscheibe",
+		"Frans": "mécanisme d’embrayage"
+	},
+	{
+		"Nederlands": "druklager",
+		"Engels": "release thrust bearing",
+		"Duits": "Ausrücklager",
+		"Frans": "butée d’embrayage"
+	},
+	{
+		"Nederlands": "drukveer",
+		"Engels": "pressure spring",
+		"Duits": "Druckfeder",
+		"Frans": "ressort de pression"
+	},
+	{
+		"Nederlands": "dynamo",
+		"Engels": " wisselstroom (gelijk)",
+		"Duits": "alternator",
+		"Frans": "Lichtmaschine"
+	},
+	{
+		"Nederlands": "egr-klep",
+		"Engels": "egr valve",
+		"Duits": "",
+		"Frans": "vanne EGR"
+	},
+	{
+		"Nederlands": "electronische regeleenheid",
+		"Engels": "control processing unit (CPU)",
+		"Duits": "",
+		"Frans": "calculateur / e.c.u."
+	},
+	{
+		"Nederlands": "expansievat",
+		"Engels": "expansion tank",
+		"Duits": "Ausgleichbehälter",
+		"Frans": "vase d’expension"
+	},
+	{
+		"Nederlands": "filter",
+		"Engels": "filter",
+		"Duits": "Filter",
+		"Frans": "filtre"
+	},
+	{
+		"Nederlands": "flotter",
+		"Engels": "",
+		"Duits": "",
+		"Frans": "la jauge"
+	},
+	{
+		"Nederlands": "gaskabel",
+		"Engels": "acceleratorcable",
+		"Duits": "Gaskabel",
+		"Frans": "câble d'accélerateur"
+	},
+	{
+		"Nederlands": "gasklep",
+		"Engels": "throttle / butterfly valve",
+		"Duits": "Drosselklappe",
+		"Frans": "papillon"
+	},
+	{
+		"Nederlands": "gaskleppotentiometer",
+		"Engels": "airflow potentiometer",
+		"Duits": "",
+		"Frans": "potentiomètre de papillon"
+	},
+	{
+		"Nederlands": "gaspedaal",
+		"Engels": "accelerator",
+		"Duits": "Gaspedal",
+		"Frans": "accélérateur"
+	},
+	{
+		"Nederlands": "gloeibougie",
+		"Engels": "",
+		"Duits": "",
+		"Frans": "bougie de préchauffage"
+	},
+	{
+		"Nederlands": "grille",
+		"Engels": "radiator grille",
+		"Duits": "Kühlergrill",
+		"Frans": "calandre"
+	},
+	{
+		"Nederlands": "handrem",
+		"Engels": "hand brake",
+		"Duits": "Handbremse",
+		"Frans": "frein à main"
+	},
+	{
+		"Nederlands": "handrem hefboom",
+		"Engels": "parking brake lever",
+		"Duits": "Handbremshebel",
+		"Frans": "levier de frein à main"
+	},
+	{
+		"Nederlands": "handremkabel",
+		"Engels": "parking brake cacle",
+		"Duits": "Feststellbremsseil",
+		"Frans": "câble frein à main"
+	},
+	{
+		"Nederlands": "handschoenenkastje",
+		"Engels": "glove compartment",
+		"Duits": "Handschuhfach",
+		"Frans": "boîte à gants"
+	},
+	{
+		"Nederlands": "hefarm",
+		"Engels": "lever",
+		"Duits": "Hebel",
+		"Frans": "levier de renvoi"
+	},
+	{
+		"Nederlands": "hoofdkoppelingscylinder",
+		"Engels": "clutch release master cylinder",
+		"Duits": "Kupplungs-Ausrückpumpe",
+		"Frans": "emmeteur d’embrayage"
+	},
+	{
+		"Nederlands": "hoofdremcylinder",
+		"Engels": "master brake cylinder",
+		"Duits": "Hauptbremszylinder",
+		"Frans": "maitre cylindre de frein"
+	},
+	{
+		"Nederlands": "hoogteregeling",
+		"Engels": "level adjustment",
+		"Duits": "",
+		"Frans": "régulateur hauteur de caisse (citroën)"
+	},
+	{
+		"Nederlands": "injector",
+		"Engels": "injector",
+		"Duits": "Einspritzdüse",
+		"Frans": "injecteur"
+	},
+	{
+		"Nederlands": "inlaat",
+		"Engels": "inlet",
+		"Duits": "Einlass",
+		"Frans": "admission"
+	},
+	{
+		"Nederlands": "inlaatkleppen",
+		"Engels": "inlet valves",
+		"Duits": "Einlassventile",
+		"Frans": "soupapes d'admission"
+	},
+	{
+		"Nederlands": "inlaatspruitstuk",
+		"Engels": "inlet manifold",
+		"Duits": "Saugrohr",
+		"Frans": "collecteur d’admission"
+	},
+	{
+		"Nederlands": "isolatie",
+		"Engels": "isolation",
+		"Duits": "Isolierung",
+		"Frans": "isolant"
+	},
+	{
+		"Nederlands": "kachelradiateur",
+		"Engels": "carheat radiator",
+		"Duits": "Wagenheizungskühler",
+		"Frans": "radiateur de chauffage"
+	},
+	{
+		"Nederlands": "katalysator",
+		"Engels": "catalytic converter",
+		"Duits": "Katalytische(r) Auspuff",
+		"Frans": "pot catalytique/catalisateur"
+	},
+	{
+		"Nederlands": "keerring",
+		"Engels": "seal ring",
+		"Duits": "Dichtring",
+		"Frans": "joint spi"
+	},
+	{
+		"Nederlands": "klein driehoekig ruitje",
+		"Engels": "triangular window",
+		"Duits": "",
+		"Frans": "déflecteur"
+	},
+	{
+		"Nederlands": "klepdeksel",
+		"Engels": "valve cover",
+		"Duits": "Ventildeckel",
+		"Frans": "cache culbuteur"
+	},
+	{
+		"Nederlands": "kleppen",
+		"Engels": "valves",
+		"Duits": "Ventilen",
+		"Frans": "soupapes"
+	},
+	{
+		"Nederlands": "klepseal",
+		"Engels": "valve oilseal",
+		"Duits": "",
+		"Frans": "joint d’étanchéité de queue de soupape"
+	},
+	{
+		"Nederlands": "klepspeling",
+		"Engels": "valveplay",
+		"Duits": "",
+		"Frans": "jeu de soupapes"
+	},
+	{
+		"Nederlands": "klepsteel",
+		"Engels": "valve stem",
+		"Duits": "Ventilschaft",
+		"Frans": "tige de soupape"
+	},
+	{
+		"Nederlands": "klepstelplaatjes",
+		"Engels": "valve shims",
+		"Duits": "",
+		"Frans": "pastilles de réglage de soupapes"
+	},
+	{
+		"Nederlands": "klepstoter",
+		"Engels": "tappet",
+		"Duits": "Stössel",
+		"Frans": "poussoir"
+	},
+	{
+		"Nederlands": "kleptuimelaar",
+		"Engels": "rocker",
+		"Duits": "Kipphebel",
+		"Frans": "culbuteur"
+	},
+	{
+		"Nederlands": "klepveer",
+		"Engels": "valve spring",
+		"Duits": "Ventilfeder",
+		"Frans": "ressort de soupape"
+	},
+	{
+		"Nederlands": "klepzitting",
+		"Engels": "valve seat",
+		"Duits": "Ventilsitz",
+		"Frans": "siège de soupape"
+	},
+	{
+		"Nederlands": "koelsysteem",
+		"Engels": "cooling system",
+		"Duits": "Kühlsystem",
+		"Frans": "système de refroidissement"
+	},
+	{
+		"Nederlands": "koelvloeistof",
+		"Engels": "cooling liquid",
+		"Duits": "Kühlflüssigkeit",
+		"Frans": "liquide de refroidissement"
+	},
+	{
+		"Nederlands": "koelwaterslang",
+		"Engels": "waterhose",
+		"Duits": " flixible hose",
+		"Frans": "Kühlwasserschlauch"
+	},
+	{
+		"Nederlands": "kogellager",
+		"Engels": "ball bearing",
+		"Duits": "Kugellager",
+		"Frans": "roulement à billes"
+	},
+	{
+		"Nederlands": "koolborstels",
+		"Engels": "contact brush",
+		"Duits": "Bürste",
+		"Frans": " Schleikohle"
+	},
+	{
+		"Nederlands": "koplamp",
+		"Engels": "headlamp",
+		"Duits": "Scheinwerfer",
+		"Frans": "phare"
+	},
+	{
+		"Nederlands": "koppakking",
+		"Engels": "cylinderheadgasket",
+		"Duits": "Kopfdichtung",
+		"Frans": "joint de culasse"
+	},
+	{
+		"Nederlands": "koppeling",
+		"Engels": "clutch",
+		"Duits": "Kupplung",
+		"Frans": "embrayage"
+	},
+	{
+		"Nederlands": "koppelingsplaat",
+		"Engels": "clutchplate",
+		"Duits": "Kupplungsscheibe",
+		"Frans": "disque d'embrayage"
+	},
+	{
+		"Nederlands": "koppelingsveer",
+		"Engels": "clutch spring",
+		"Duits": "",
+		"Frans": "ressort d'embrayage"
+	},
+	{
+		"Nederlands": "koppelingsvork",
+		"Engels": "clutch operating fork",
+		"Duits": "Ausrückgabel",
+		"Frans": "fourchette d'embrayage"
+	},
+	{
+		"Nederlands": "koppelomvormer (aut.bak)",
+		"Engels": "( hydraulic torque) converter",
+		"Duits": "Wandler",
+		"Frans": " Umformer"
+	},
+	{
+		"Nederlands": "kortsluiting",
+		"Engels": "short circuit",
+		"Duits": "Kurzschluss",
+		"Frans": "court-circuit"
+	},
+	{
+		"Nederlands": "kraan",
+		"Engels": "tap",
+		"Duits": "Hahn",
+		"Frans": "robinet"
+	},
+	{
+		"Nederlands": "kroonmoer",
+		"Engels": "castle nut",
+		"Duits": "Kronenmutter",
+		"Frans": "ecrou crénélé"
+	},
+	{
+		"Nederlands": "kroonwiel en pignon",
+		"Engels": "ring gear and bevel pinion",
+		"Duits": "Tellerrad und Kegel-Ritzel",
+		"Frans": "couronne et pignon d’attaque"
+	},
+	{
+		"Nederlands": "kruiskoppeling",
+		"Engels": "universal joint ",
+		"Duits": " flexible coupling",
+		"Frans": "Antriebsgelenk"
+	},
+	{
+		"Nederlands": "krukas",
+		"Engels": "crank shaft",
+		"Duits": "Kurbelwelle",
+		"Frans": "vilebrequin"
+	},
+	{
+		"Nederlands": "krukas-positiesensor",
+		"Engels": "crankshaft position sensor",
+		"Duits": "Kurbelwelle position sensor",
+		"Frans": "capteur régime moteur"
+	},
+	{
+		"Nederlands": "lager",
+		"Engels": "bearing",
+		"Duits": "Lager",
+		"Frans": "roulement (palier)"
+	},
+	{
+		"Nederlands": "lagerschaal",
+		"Engels": "bearing halfshell",
+		"Duits": "Lagerschale",
+		"Frans": "coussinet"
+	},
+	{
+		"Nederlands": "lambda-sonde",
+		"Engels": "lambda sensor",
+		"Duits": "Lambdafühler",
+		"Frans": "sonde lambda"
+	},
+	{
+		"Nederlands": "leidingen",
+		"Engels": "linings ",
+		"Duits": " lines",
+		"Frans": "Leitungen"
+	},
+	{
+		"Nederlands": "luchtfilter",
+		"Engels": "air cleaner (filter)",
+		"Duits": "Luftfilter",
+		"Frans": "filtre à air"
+	},
+	{
+		"Nederlands": "luchthoeveelheidsmeter",
+		"Engels": "air flow meter",
+		"Duits": "Luftmengenmesser",
+		"Frans": "debit mètre d’air"
+	},
+	{
+		"Nederlands": "luchtreinigingsfilter",
+		"Engels": "airfilter",
+		"Duits": "",
+		"Frans": "epurateur d'air"
+	},
+	{
+		"Nederlands": "map-sensor",
+		"Engels": "map sensor",
+		"Duits": "Saugdruckfühler",
+		"Frans": "capteur de pression absolue"
+	},
+	{
+		"Nederlands": "moer",
+		"Engels": "nut",
+		"Duits": "Mutter",
+		"Frans": "ecrou"
+	},
+	{
+		"Nederlands": "monopoint-injectie",
+		"Engels": "monopoint injection",
+		"Duits": "",
+		"Frans": "injection-monopoint"
+	},
+	{
+		"Nederlands": "motorblok",
+		"Engels": "engine block",
+		"Duits": "Motorblock",
+		"Frans": "bloc moteur"
+	},
+	{
+		"Nederlands": "motorkap",
+		"Engels": "bonnet",
+		"Duits": "Motorhaube",
+		"Frans": "capot"
+	},
+	{
+		"Nederlands": "motorlager",
+		"Engels": "bearing",
+		"Duits": "Lager",
+		"Frans": "palier"
+	},
+	{
+		"Nederlands": "motorsteun",
+		"Engels": "engine bracket",
+		"Duits": "Lagerbock der Motoraufhängung",
+		"Frans": "support moteur"
+	},
+	{
+		"Nederlands": "multipoint-injectie",
+		"Engels": "multipoint injection",
+		"Duits": "",
+		"Frans": "injection multipoint"
+	},
+	{
+		"Nederlands": "multiriem",
+		"Engels": "multibelt",
+		"Duits": "Keilrieme",
+		"Frans": "courroie à gorges/d’accessoires"
+	},
+	{
+		"Nederlands": "naaf",
+		"Engels": "hub",
+		"Duits": "Nabe",
+		"Frans": "moyeu"
+	},
+	{
+		"Nederlands": "naaldlager",
+		"Engels": "needle bearing",
+		"Duits": "Nadellager",
+		"Frans": "roulement à aiguilles"
+	},
+	{
+		"Nederlands": "na-ontsteking",
+		"Engels": "delayed ignition",
+		"Duits": "Spätzündung",
+		"Frans": "retard d'allumage"
+	},
+	{
+		"Nederlands": "neuswiel caravan",
+		"Engels": "jockey wheel",
+		"Duits": "",
+		"Frans": "roue jockey"
+	},
+	{
+		"Nederlands": "nokkenas",
+		"Engels": "camshaft",
+		"Duits": "Nockenwelle",
+		"Frans": "arbre à cames"
+	},
+	{
+		"Nederlands": "nokkenas-positiesensor",
+		"Engels": "camshaft position sensor",
+		"Duits": "",
+		"Frans": "capteur d’abre à cames"
+	},
+	{
+		"Nederlands": "nummerbord",
+		"Engels": "numberplate",
+		"Duits": "Kennzeichen",
+		"Frans": " Nummernschild"
+	},
+	{
+		"Nederlands": "oliefilter",
+		"Engels": "oilfilter",
+		"Duits": "Ölfilter",
+		"Frans": "filtre à huile"
+	},
+	{
+		"Nederlands": "oliepomp",
+		"Engels": "oilpump",
+		"Duits": "Ölpumpe",
+		"Frans": "pompe à huile"
+	},
+	{
+		"Nederlands": "olievulopening",
+		"Engels": "oil inlet hole",
+		"Duits": "Ölfüllöffnung",
+		"Frans": "orifice de remplissage d'huile"
+	},
+	{
+		"Nederlands": "ontsteking",
+		"Engels": "ignition",
+		"Duits": "Zündung",
+		"Frans": "allumage"
+	},
+	{
+		"Nederlands": "ontstekingsmodule",
+		"Engels": "ignition",
+		"Duits": "",
+		"Frans": "module d’allumage"
+	},
+	{
+		"Nederlands": "ophangrubber",
+		"Engels": "silent bloc",
+		"Duits": "Gummikörper",
+		"Frans": "silent bloc"
+	},
+	{
+		"Nederlands": "oplooprem caravan",
+		"Engels": "retarder",
+		"Duits": "Dauerbremse",
+		"Frans": "frein à inertie"
+	},
+	{
+		"Nederlands": "pakking",
+		"Engels": "gasket",
+		"Duits": "Dichtung",
+		"Frans": "joint d’étanchéité"
+	},
+	{
+		"Nederlands": "peilstok",
+		"Engels": "dipstick",
+		"Duits": "Ölmesser",
+		"Frans": "jauge d'huile"
+	},
+	{
+		"Nederlands": "poelie",
+		"Engels": "pulley",
+		"Duits": "Antriebscheibe",
+		"Frans": "poulie"
+	},
+	{
+		"Nederlands": "prise as",
+		"Engels": "clutch shaft",
+		"Duits": "Kupplungswelle",
+		"Frans": "arbre primaire"
+	},
+	{
+		"Nederlands": "radiateur",
+		"Engels": "radiator",
+		"Duits": "Kühler",
+		"Frans": "radiateur"
+	},
+	{
+		"Nederlands": "regeleenheid (electronische)",
+		"Engels": "CPU",
+		"Duits": "",
+		"Frans": "calculateur // e.c.u."
+	},
+	{
+		"Nederlands": "remankerplaat",
+		"Engels": "brake carrier ",
+		"Duits": " support",
+		"Frans": "Bremssattelträger"
+	},
+	{
+		"Nederlands": "rembekrachtiger",
+		"Engels": "assisted brake system",
+		"Duits": "",
+		"Frans": "mastervac//servo"
+	},
+	{
+		"Nederlands": "remblokjes",
+		"Engels": "brake pad",
+		"Duits": "Bremsklotz",
+		"Frans": "plaquettes de frein"
+	},
+	{
+		"Nederlands": "remklauw",
+		"Engels": "brake caliper",
+		"Duits": "Bremssattel",
+		"Frans": "etrier de frein"
+	},
+	{
+		"Nederlands": "remschijf",
+		"Engels": "brake disc",
+		"Duits": "Bremsscheibe",
+		"Frans": "disque de frein"
+	},
+	{
+		"Nederlands": "remschoenen",
+		"Engels": "brake shoe",
+		"Duits": "Bremsbacke",
+		"Frans": "segments de freins/mâchoires de frein"
+	},
+	{
+		"Nederlands": "remservo",
+		"Engels": "brake servo",
+		"Duits": "Unterdruckservo",
+		"Frans": "mastervac"
+	},
+	{
+		"Nederlands": "remtrommel",
+		"Engels": "brake drum",
+		"Duits": "Bremstrommel",
+		"Frans": "tambour de frein"
+	},
+	{
+		"Nederlands": "richtbank",
+		"Engels": "body alignment",
+		"Duits": "",
+		"Frans": "marbre (passage au marbre)"
+	},
+	{
+		"Nederlands": "richtingaanwijzer",
+		"Engels": "indicator light",
+		"Duits": "Blinker",
+		"Frans": " (Fahrtrichtungsanzeiger"
+	},
+	{
+		"Nederlands": "roetfilter",
+		"Engels": "​diesel Particulate filter  of particulate trap óf DPF",
+		"Duits": "​Dieselpartikelfilter",
+		"Frans": "​filtre à particule"
+	},
+	{
+		"Nederlands": "rondsel startmotor",
+		"Engels": "pinion gear",
+		"Duits": "Ritzel",
+		"Frans": "bendix"
+	},
+	{
+		"Nederlands": "rotor",
+		"Engels": "distributor rotor",
+		"Duits": "Verteilerläufer",
+		"Frans": "roteur d’allumage"
+	},
+	{
+		"Nederlands": "rubberring",
+		"Engels": "rubber washer",
+		"Duits": "Gummischeibe",
+		"Frans": "rondelle élastique"
+	},
+	{
+		"Nederlands": "ruilmotor",
+		"Engels": "exchange unit",
+		"Duits": "",
+		"Frans": "moteur échange standard"
+	},
+	{
+		"Nederlands": "ruit",
+		"Engels": "window",
+		"Duits": "Scheibe",
+		"Frans": "vitre"
+	},
+	{
+		"Nederlands": "ruitenwisser",
+		"Engels": "windscreen wiper",
+		"Duits": "Scheibenwischer",
+		"Frans": "essuie glace"
+	},
+	{
+		"Nederlands": "schakelaar",
+		"Engels": "switch",
+		"Duits": "Schalter",
+		"Frans": "interrupteur"
+	},
+	{
+		"Nederlands": "schakelen",
+		"Engels": "gearswitch",
+		"Duits": "Gangwechsel",
+		"Frans": "changement de vitesse"
+	},
+	{
+		"Nederlands": "schokbreker",
+		"Engels": "shockabsorber",
+		"Duits": "Stossdämpfer",
+		"Frans": "amortisseur"
+	},
+	{
+		"Nederlands": "schroef",
+		"Engels": "bolt ",
+		"Duits": " screw",
+		"Frans": "Schraube"
+	},
+	{
+		"Nederlands": "slag",
+		"Engels": "(piston) stroke",
+		"Duits": "Kolbenhub",
+		"Frans": "course"
+	},
+	{
+		"Nederlands": "sleutel",
+		"Engels": "key",
+		"Duits": "Schlüssel",
+		"Frans": "clé"
+	},
+	{
+		"Nederlands": "slot",
+		"Engels": "catch / lock",
+		"Duits": "Schloss",
+		"Frans": "serrure"
+	},
+	{
+		"Nederlands": "smeernippel",
+		"Engels": "grease nipple",
+		"Duits": "Schmiernippel",
+		"Frans": "graisseur"
+	},
+	{
+		"Nederlands": "spanningsregelaar",
+		"Engels": "voltage regulator",
+		"Duits": "Spannungsregler",
+		"Frans": "regulateur de tension"
+	},
+	{
+		"Nederlands": "spanring",
+		"Engels": "springwasher",
+		"Duits": "Federscheibe",
+		"Frans": "anneau tendeur "
+	},
+	{
+		"Nederlands": "spatscherm",
+		"Engels": "wing ",
+		"Duits": " fender",
+		"Frans": "Kotflügel"
+	},
+	{
+		"Nederlands": "splitpen",
+		"Engels": "splitpen",
+		"Duits": "",
+		"Frans": "goupille"
+	},
+	{
+		"Nederlands": "sproeier",
+		"Engels": "jet",
+		"Duits": "Düse",
+		"Frans": "gicleur"
+	},
+	{
+		"Nederlands": "stabilisatorstang",
+		"Engels": "reaction rod",
+		"Duits": "Schubstrebe",
+		"Frans": "barre stabilisatrice"
+	},
+	{
+		"Nederlands": "stangenstelsel versnellingspook",
+		"Engels": "gearbox remote control",
+		"Duits": "Schaltgetriebe Fernschaltung",
+		"Frans": "tringlerie"
+	},
+	{
+		"Nederlands": "stappenmotor",
+		"Engels": "starter(engine)",
+		"Duits": "Schrittmotor Anlasser",
+		"Frans": "moteur pas à pas / démarreur"
+	},
+	{
+		"Nederlands": "starterkrans",
+		"Engels": "flywheel gear ring",
+		"Duits": "",
+		"Frans": "couronne de démarreur"
+	},
+	{
+		"Nederlands": "startmotor",
+		"Engels": "electric starter",
+		"Duits": "Anlasser",
+		"Frans": "démarreur"
+	},
+	{
+		"Nederlands": "startonderbreker",
+		"Engels": "immobiliser",
+		"Duits": "Wegfahrsperre",
+		"Frans": "système anti-démarrage"
+	},
+	{
+		"Nederlands": "stelmoer",
+		"Engels": "adjusting bolt",
+		"Duits": "Einstellmutter",
+		"Frans": "ecrou de réglage"
+	},
+	{
+		"Nederlands": "stelschroef",
+		"Engels": "adjusting screw",
+		"Duits": "Einstellschraube",
+		"Frans": "vis de réglage"
+	},
+	{
+		"Nederlands": "stroomverdeler",
+		"Engels": "ignition distributor",
+		"Duits": "",
+		"Frans": "allumeur"
+	},
+	{
+		"Nederlands": "stroomverdelerkap",
+		"Engels": "distributor cap",
+		"Duits": "Verteilerkappe",
+		"Frans": "tête d'allumage"
+	},
+	{
+		"Nederlands": "stuurbekrachtiging",
+		"Engels": "power steering",
+		"Duits": "",
+		"Frans": "direction assistée"
+	},
+	{
+		"Nederlands": "stuurkogel",
+		"Engels": "steering linkage ball joint",
+		"Duits": "Lenkgestänge - Kugelgelenk",
+		"Frans": "rotule de direction"
+	},
+	{
+		"Nederlands": "stuurkolom",
+		"Engels": "steering column",
+		"Duits": "Lenksäule",
+		"Frans": "colonne de direction"
+	},
+	{
+		"Nederlands": "thermocontact",
+		"Engels": "thermocontact",
+		"Duits": "Thermokontakt",
+		"Frans": "thermocontact"
+	},
+	{
+		"Nederlands": "thermostaat",
+		"Engels": "thermostat",
+		"Duits": "Thermostat",
+		"Frans": "thermostat/calorstat"
+	},
+	{
+		"Nederlands": "torsieveer",
+		"Engels": "torsion bar",
+		"Duits": "Stabfeder",
+		"Frans": "barre de torsion"
+	},
+	{
+		"Nederlands": "transpondersleutel",
+		"Engels": "transponder key",
+		"Duits": "Transponderschlüssel",
+		"Frans": "clé à puces"
+	},
+	{
+		"Nederlands": "trekbeugel",
+		"Engels": "pullholder",
+		"Duits": "Hebelklemme",
+		"Frans": "fourchette d'attelage"
+	},
+	{
+		"Nederlands": "trekstang",
+		"Engels": "pull rod",
+		"Duits": "Hebelzugstange",
+		"Frans": "barre d'attelage"
+	},
+	{
+		"Nederlands": "trekveer",
+		"Engels": "return spring",
+		"Duits": "Rückzugfeder",
+		"Frans": "ressort à traction"
+	},
+	{
+		"Nederlands": "tussenaslager",
+		"Engels": "countershaft",
+		"Duits": "Vorgelegewelle",
+		"Frans": "palier intermédiaire"
+	},
+	{
+		"Nederlands": "uitlaat",
+		"Engels": "Exhaust",
+		"Duits": "Auspuff",
+		"Frans": "echappement"
+	},
+	{
+		"Nederlands": "uitlaatdemper",
+		"Engels": "silencer",
+		"Duits": "Schalldämpfer",
+		"Frans": "pot d'échappement"
+	},
+	{
+		"Nederlands": "uitlaatklep",
+		"Engels": "exhaust valve",
+		"Duits": "Auslassventil - Auslassventile",
+		"Frans": "soupapes d'échappement"
+	},
+	{
+		"Nederlands": "uitlaatpijp",
+		"Engels": "Exhaust pipe",
+		"Duits": "",
+		"Frans": "tuyau d'échappement"
+	},
+	{
+		"Nederlands": "uitlaatspruitstuk",
+		"Engels": "exhaust manifold",
+		"Duits": "Auspuffrohr",
+		"Frans": "collecteur d’echappement"
+	},
+	{
+		"Nederlands": "veer",
+		"Engels": "spring",
+		"Duits": "Feder",
+		"Frans": "ressort"
+	},
+	{
+		"Nederlands": "veer (rubber)",
+		"Engels": "coilspring",
+		"Duits": "Schraubenfeder",
+		"Frans": "ressort de suspention (caoutchouc)"
+	},
+	{
+		"Nederlands": "veerblad",
+		"Engels": "leafspring",
+		"Duits": "Blattfeder",
+		"Frans": "lame de ressort"
+	},
+	{
+		"Nederlands": "veerbol (citroën)",
+		"Engels": "hydro-pneumatic spring (unit)",
+		"Duits": "hydropneumatischer Federungselement",
+		"Frans": "sphère"
+	},
+	{
+		"Nederlands": "veerrubber",
+		"Engels": "rubberspring",
+		"Duits": "Gummifeder",
+		"Frans": "armortisseur caoutchouc"
+	},
+	{
+		"Nederlands": "velg",
+		"Engels": "rim",
+		"Duits": "Felge",
+		"Frans": "jante"
+	},
+	{
+		"Nederlands": "ventilator",
+		"Engels": "fan",
+		"Duits": "Ventilator",
+		"Frans": "ventilateur"
+	},
+	{
+		"Nederlands": "ventilatorriem",
+		"Engels": "fan belt",
+		"Duits": "",
+		"Frans": "courroie de ventilateur"
+	},
+	{
+		"Nederlands": "verbindingsbus",
+		"Engels": "connexionbush (seat)",
+		"Duits": "",
+		"Frans": "boulon de raccord"
+	},
+	{
+		"Nederlands": "verdeler",
+		"Engels": "ignition distributor",
+		"Duits": "",
+		"Frans": "delco/distributeur d'allumage"
+	},
+	{
+		"Nederlands": "verdelerkap",
+		"Engels": "distributor cap",
+		"Duits": "",
+		"Frans": "tête de delco/tête d’allumage"
+	},
+	{
+		"Nederlands": "versnellingsbak",
+		"Engels": "gearbox",
+		"Duits": "Getriebe",
+		"Frans": "boite de vitesse"
+	},
+	{
+		"Nederlands": "versnellings-handle",
+		"Engels": "gear (change) lever",
+		"Duits": "Schalthebel",
+		"Frans": "levier de vitesse"
+	},
+	{
+		"Nederlands": "verstuiver",
+		"Engels": "injector",
+		"Duits": "Einspritzventil",
+		"Frans": "injecteur"
+	},
+	{
+		"Nederlands": "vetdop",
+		"Engels": "greasecap",
+		"Duits": "Schmierfettschutzkappe",
+		"Frans": "capuchon"
+	},
+	{
+		"Nederlands": "vliegwiel",
+		"Engels": "flywheel",
+		"Duits": "Schwungrad",
+		"Frans": "volant moteur"
+	},
+	{
+		"Nederlands": "vlotter",
+		"Engels": "float",
+		"Duits": "Schwimmer",
+		"Frans": "flotteur"
+	},
+	{
+		"Nederlands": "vonk",
+		"Engels": "spark",
+		"Duits": "",
+		"Frans": "etincelle"
+	},
+	{
+		"Nederlands": "voorontsteking",
+		"Engels": "advanced ignition",
+		"Duits": "Frühzündung",
+		"Frans": "avance d'allumage"
+	},
+	{
+		"Nederlands": "voorruit",
+		"Engels": "windscreen",
+		"Duits": "",
+		"Frans": "pare-brise"
+	},
+	{
+		"Nederlands": "voorwielophanging",
+		"Engels": "front suspention",
+		"Duits": "",
+		"Frans": "suspention avant"
+	},
+	{
+		"Nederlands": "vriesplaatje",
+		"Engels": "spring lock washer",
+		"Duits": "",
+		"Frans": "pastille de sablage"
+	},
+	{
+		"Nederlands": "v-snaar",
+		"Engels": "V-belt / fan belt",
+		"Duits": "Keilriemen",
+		"Frans": "courroie"
+	},
+	{
+		"Nederlands": "waterpomp met pakking en poelie",
+		"Engels": "water pump",
+		"Duits": "",
+		"Frans": "pompe a eau avec joint et pouli"
+	},
+	{
+		"Nederlands": "werkcylinder koppeling",
+		"Engels": "clutch slave cylinder",
+		"Duits": "Ausrückzylinder",
+		"Frans": "récepteur d’embrayage"
+	},
+	{
+		"Nederlands": "wiel",
+		"Engels": "wheel",
+		"Duits": "Rad",
+		"Frans": "roue"
+	},
+	{
+		"Nederlands": "wielbout",
+		"Engels": "wheelbolt",
+		"Duits": "",
+		"Frans": "goujon"
+	},
+	{
+		"Nederlands": "wiellager",
+		"Engels": "wheelhub",
+		"Duits": "Radlager",
+		"Frans": "roulement de roue"
+	},
+	{
+		"Nederlands": "wielremcilinder",
+		"Engels": "wheel brake cylinder",
+		"Duits": "Radbremszylinder",
+		"Frans": "cylindre de roue"
+	},
+	{
+		"Nederlands": "wisselstroomdynamo",
+		"Engels": "alternator",
+		"Duits": "",
+		"Frans": "alternateur"
+	},
+	{
+		"Nederlands": "zekering",
+		"Engels": "fuse",
+		"Duits": "",
+		"Frans": "fusible"
+	},
+	{
+		"Nederlands": "zijruit",
+		"Engels": "side-window",
+		"Duits": "",
+		"Frans": "vitre latéral"
+	},
+	{
+		"Nederlands": "zonneklep",
+		"Engels": "anti-dazzle screen",
+		"Duits": "",
+		"Frans": "pare-soleil"
+	},
+	{
+		"Nederlands": "zuiger",
+		"Engels": "piston",
+		"Duits": "Kolbe",
+		"Frans": "piston"
+	},
+	{
+		"Nederlands": "zuigerveren",
+		"Engels": "pistonrings",
+		"Duits": "Kolbenringen",
+		"Frans": "segments de piston"
+	}
+]
