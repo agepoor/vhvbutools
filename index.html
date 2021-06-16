@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Autotechniek</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      integrity="undefined"
+      crossorigin="anonymous"
+    />
+    <style>
+      table {
+        table-layout: fixed;
+        word-wrap: break-word;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <div class="row m-3" id="selectlang"></div>
+      <div class="row m-3">
+        <!-- Search -->
+        <input
+          type="text"
+          placeholder="Typ hier de technische term..."
+          class="form-control form-control-lg"
+          id="search"
+        />
+      </div>
+      <!-- Results -->
+      <div class="row m-3" id="results">
+        <table class="table" id="table">
+          <thead id="languages"></thead>
+          <tbody id="terms"></tbody>
+        </table>
+      </div>
+    </main>
+  </body>
+  <script>
+    // Get element
+    const selectlang = document.getElementById("selectlang");
+    const languages = document.getElementById("languages");
+    const terms = document.getElementById("terms");
+    let searchInput = document.getElementById("search");
+    let table = document.getElementById("table");
+
+    function filterNames() {
+      let filterValue = searchInput.value.toUpperCase();
+      console.log(filterValue);
+    }
+
+    /* https://howtocreateapps.com/fetch-and-display-json-html-javascript/ */
+    /* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch */
+    /* https://dmitripavlutin.com/javascript-fetch-async-await/ */
+    /* https://dev.to/johnpaulada/synchronous-fetch-with-asyncawait */
+    // fetch("terms.json")
+    //   .then((response) => response.json())
+    //   .then((data) => createTable(data));
+
+    /* Data request */
+    const request = async () => {
+      const res = await fetch("terms2.json");
+      const data = await res.json();
+
+      createTable(data);
+    };
+
+    request();
+
+    /* Search */
+    /* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet */
+
+    //   .catch(function (err) {
+    //     console.log(err);
+    //   });
+
+    // const search = document.getElementById("search");
+    // let matches = terms.filter((term) => {
+    //   const regex = new RegExp(`${searchText}`, "gi");
+    //   //   return term.
+    // });
+
+    /* Output Table */
+    function createTable(obj) {
+      // const newButtonGroup = document.createElement("div");
+      // newButtonGroup.classList.add("btn-group");
+      selectlang.innerHTML = `<div class="btn-group role="group"
+          aria-label="Basic checkbox toggle button group"></div>`;
+      let languagelist = Object.keys(obj[1]);
+      languagelist.forEach((lang) => {
+        selectlang.firstChild.innerHTML += `<input
+            type="checkbox"
+            class="btn-check"
+            id="${lang}"
+            autocomplete="off"
+            checked="true"
+          />
+          <label class="btn btn-outline-primary" for="${lang}"
+            >${lang}</label
+          >`;
+      });
+      languagelist.forEach((element) => {
+        const newTableHead = document.createElement("th");
+        newTableHead.classList.add(element);
+        newTableHead.innerHTML = `${element}`;
+        languages.appendChild(newTableHead);
+      });
+      obj.forEach((term) => {
+        const newTableRow = document.createElement("tr");
+        languagelist.forEach((language) => {
+          newTableRow.innerHTML +=
+            "<td class=" + language + ">" + term[language] + "</td>";
+        });
+        terms.appendChild(newTableRow);
+      });
+      addQuerySelectors();
+    }
+
+    function addQuerySelectors() {
+      const input = selectlang.querySelectorAll("input");
+      input.forEach((item) =>
+        item.addEventListener("click", function () {
+          updateTerms();
+        })
+      );
+      searchInput.addEventListener("keyup", function () {
+        updateWords();
+      });
+    }
+
+    function updateTerms() {
+      const input = selectlang.querySelectorAll("input");
+      const checkedLanguages = [...input]
+        .filter((lang) => {
+          if (lang.checked == true) {
+            return lang.id;
+          }
+        })
+        .map((item) => {
+          return item.id;
+        });
+      const notCheckedLanguages = [...input]
+        .filter((lang) => {
+          if (lang.checked == false) {
+            return lang.id;
+          }
+        })
+        .map((item) => {
+          return item.id;
+        });
+      checkedLanguages.forEach((i) => {
+        const checkedElements = document.querySelectorAll("." + i);
+        checkedElements.forEach((i) => {
+          i.style.display = "";
+        });
+      });
+      notCheckedLanguages.forEach((i) => {
+        const checkedElements = document.querySelectorAll("." + i);
+        checkedElements.forEach((i) => {
+          i.style.display = "none";
+        });
+      });
+    }
+    function updateWords() {
+      // Zoek voor match
+      const inputValue = searchInput.value
+        .toUpperCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+      const rows = terms.querySelectorAll("tr");
+      rows.forEach((i) => {
+        console.log(
+          i.innerText.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        );
+        if (
+          i.innerText
+            .toUpperCase()
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .includes(inputValue)
+        ) {
+          i.style.display = "";
+        } else {
+          i.style.display = "none";
+        }
+      });
+    }
+  </script>
+</html>
